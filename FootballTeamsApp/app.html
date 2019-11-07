@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>EPL</title>
+        <link rel = "stylesheet" type = "text/css" href = "style.css" />
+        <script src="app.js"></script> 
+    </head>
+    <body>
+        <div id="navContainer">
+            <div id="navBar">
+                <div id="leftNav">
+                    <button id="reset" onclick="clearSearchTeam()">Home</button>
+                    <div class="view">
+                        <button class="viewButton">League</button>
+                        <div class="viewOptions">
+                            <a id="epl" class="a" onclick="changeLeague(this.id)">EPL</a>
+                            <a id="bundesliga" class="a" onclick="changeLeague(this.id)">Bundesliga</a>
+                            <a id="serieA" class="a" onclick="changeLeague(this.id)">Serie A</a>
+                            <a id="ligue1" class="a" onclick="changeLeague(this.id)">Ligue 1</a>
+                            <a id="laLiga" class="a" onclick="changeLeague(this.id)">La Liga</a>
+                            <a id="mls" class="a" onclick="changeLeague(this.id)">MLS</a>
+                            <a id="aus" class="a" onclick="changeLeague(this.id)">A-League</a>
+                        </div>
+                    </div>
+                </div>
+                <div id="rightNav">
+                    <input id="input" type="text" placeholder="Search your club" onkeypress="enterSearch(event)" />
+                    <button id="searchB" onclick="getTeamInfo()">Submit</button>
+                </div>
+            </div>
+        </div>
+        <div id="sTeam">
+            <div id="searchTeam">
+                <div id="nameNbadge" class="card">
+
+                </div>
+                <div id="stadNdesc" class="stadium">
+
+                </div>
+                <div id="yearNkit" class="card">
+                    
+                </div>
+            </div> 
+        </div> 
+        <div class="teamList">
+            <div id="listView">
+                <h>View</h>
+                <button id="bdg" class="a" onclick="changeView(this.id)">Badge</button>
+                <button id="kit" class="a" onclick="changeView(this.id)">Kit</button>
+            </div>
+            <section id="teams">
+
+            </section>
+        </div>
+    </body>
+</html>

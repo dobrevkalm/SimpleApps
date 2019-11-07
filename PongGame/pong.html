@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>PONG Game</title>
+        <link rel = "stylesheet" type = "text/css" href = "style.css" />
+    </head>
+
+    <body>
+        <div id="game">
+            <div id="buttons">
+              <button class="b" onclick="startGame = setInterval(play, 1000/50)">Start</button>
+              <button class="b" onclick="clearInterval(startGame)">Pause</button>
+              <button class="b active" onclick="document.location.reload()">Reset</button>
+            </div>
+            <section id="field">
+              <div id="fieldElm">
+                <canvas id="pong" width="800" height="500"></canvas>
+                <script src="pong.js"></script>
+              </div>
+            </section>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,51 @@
+#pong {
+    border-style: dotted;
+    color: #006428;
+}
+
+#game {
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto 20px auto;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+#buttons {
+    margin-bottom: 30px;
+}
+
+.b {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    background-color: #850000;
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+    font-family: Calibri;
+    font-weight: bolder;
+}
+
+.active, .b:hover {
+    background-color: #420000;
+    color: white;
+}
+
+#field {
+  display: flex;
+  flex-direction: row;
+}
+
+#fieldElm {
+    margin: 20px;
+}
+
+#fieldElm .p {
+    margin-bottom: 20px;
+}
+
+#selectTeam {
+    margin: 20px;
+}
