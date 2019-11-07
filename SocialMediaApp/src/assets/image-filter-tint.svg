@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="179px" height="179px" viewBox="0 0 179 179" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>image-filter-tint</title>
+    <desc>Created with Sketch.</desc>
+    <g id="image-filter-tint" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(42.000000, 45.000000)" stroke="#444444" stroke-width="4">
+            <circle id="Oval" cx="49" cy="28" r="26"></circle>
+            <circle id="Oval" cx="28" cy="62" r="26"></circle>
+            <circle id="Oval" cx="69" cy="62" r="26"></circle>
+        </g>
+    </g>
+</svg>

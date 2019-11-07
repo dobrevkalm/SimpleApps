@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="576px" height="179px" viewBox="0 0 576 179" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>offline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="offline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Offline" transform="translate(119.000000, 45.000000)">
+            <path d="M298.5798,21 C299.392557,24.4061442 300.028987,28.1055798 300.478054,32 L336.262253,32 L336.262253,21 L298.5798,21 Z M300.588801,59 C300.176988,62.8777614 299.581068,66.5769869 298.811463,70 L336.262253,70 L336.262253,59 L300.588801,59 Z" id="Combined-Shape" stroke="#F87272" stroke-width="4"></path>
+            <path d="M277,2 C266,2 266,2 259,2 C254,2 254,2 253,2 C245.296823,2 237.289706,4.01338266 232.42344,7.22549387 C218.532546,16.3945575 210,29.9426146 210,45 C210,68.7482442 229.251756,88 253,88 C254,88 254,88 259,88 C266,88 266,88 277,88 C286.332752,88 293,69.248364 293,45 C293,20.751636 286.332752,2 277,2 Z" id="Path-Copy" stroke="#F87272" stroke-width="4"></path>
+            <path d="M202.412368,38 L179,38 L179,53 L202.49713,53 C202.167251,50.3759417 202,47.7025341 202,45 C202,42.6324442 202.138715,40.2971109 202.412367,37.9999996 Z" id="Combined-Shape" stroke="#F87272" stroke-width="4"></path>
+            <path d="M99.7729124,47 L103.772912,43 L172.534513,43 L172.534513,47 L99.7729124,47 Z M71.4886412,47 L0,47 L0,43 L75.4886412,43 L71.4886412,47 Z" id="Combined-Shape" fill="#F87272" fill-rule="nonzero"></path>
+            <path d="M76.5,-10 L76.5,99.015625" id="Line" stroke="#F87272" stroke-width="4" stroke-linecap="round" transform="translate(76.500000, 44.507812) rotate(-315.000000) translate(-76.500000, -44.507812) "></path>
+            <path d="M99.5,-10 L99.5,99.015625" id="Line" stroke="#F87272" stroke-width="4" stroke-linecap="round" transform="translate(99.500000, 44.507812) rotate(-315.000000) translate(-99.500000, -44.507812) "></path>
+        </g>
+    </g>
+</svg>
