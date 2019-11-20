@@ -1,4 +1,4 @@
-//the API
+// the API url
 const api = 'https://www.thesportsdb.com/api/v1/json/1/search_all_teams.php?l=';
 
 //URL's for the different football leagues API
